@@ -1,0 +1,90 @@
+[
+    {
+      "title": "2022 U.S. & Canada Industrial Market Outlook",
+      "eventBanner": "https://media.industrialinfo.com/webinars/images/AllIndustries.png",
+      "eventDate": "Thursday, January 20, 2022",
+      "industryContentCode": "14",
+      "tags": ["14"],
+      "links": [
+        {
+          "btnText": "View Presentation",
+          "href": "https://attendee.gotowebinar.com/recording/7610873228622181383"
+        },
+        {
+          "btnText": "Webinar Q&A",
+          "href": "/events/outlooks/2022/post/us-canada-outlook-qa.jsp"
+        }
+      ],
+      "pushToCarousel": false,
+      "sponsors": ["sherwin", "hilco", "aveva"]
+    },
+    {
+      "title": "Global Semiconductors & Automotive Outlook" ,
+      "eventBanner": "https://media.industrialinfo.com/webinars/images/Manufacturing.png",
+      "eventDate": "Thursday, January 6, 2022",
+      "industryContentCode": "12",
+      "tags": ["12"],
+      "links": [
+        {
+          "btnText": "View Presentation",
+          "href": "https://attendee.gotowebinar.com/recording/4984572613068204801"
+        },
+        {
+          "btnText": "Webinar Q&A",
+          "href": "/events/outlooks/2022/post/automotive.jsp"
+        }
+      ],
+      "pushToCarousel": false,
+      "sponsors": ["summit"]
+    },
+    {
+      "title": "2023-2024 Global Metals & Minerals Project Spending Outlook",
+      "eventBanner": "https://media.industrialinfo.com/webinars/images/MetalsAndMinerals.png",
+      "eventDate": "February - Please click for selection",
+      "eventExpiration": "2023-02-16T11:00:00",
+      "pushToCarousel": true,
+      "industryContentCode": "08",
+      "tags": [
+        "08"
+      ],
+      "links": [
+        {
+          "btnText": "North American",
+          "href": "https://pages.industrialinfo.com/webinar-2023-global-metals-minerals-cdt/"
+        },
+        {
+          "btnText": "Europe",
+          "href": "https://pages.industrialinfo.com/webinar-2023-global-metals-minerals-cet/"
+        },
+        {
+          "btnText": "APAC",
+          "href": "https://pages.industrialinfo.com/webinar-2023-global-metals-minerals-jst/"
+        }
+      ],
+      "sponsors": [
+        "hilliard"
+      ]
+    },
+    {
+      "title": "Building for the Future: Balancing Sustainability, Reliability and Cost in New Facility Design",
+      "eventBanner": "https://media.industrialinfo.com/webinars/images/Power.png",
+      "eventDate": " February 27, 2023 at 1:00 PM (CST)",
+      "eventExpiration": "2023-02-27T15:00:00",
+      "pushToCarousel": true,
+      "industryContentCode": "01",
+      "isPresenter" : true,
+      "tags": [
+        "01"
+      ],
+      "links": [
+        {
+          "btnText": "RSVP Now",
+          "href": "https://register.gotowebinar.com/register/4850947874086248027"
+        }
+      ],
+      "sponsors": [
+        "enchanted-rock"
+      ]
+    }
+  ]
+  

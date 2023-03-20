@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>My Webinar Page</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+	<style>
+		.bg-light-grey {
+			background-color: #f5f5f5;
+		}
+		.navbar {
+			padding: 0.5rem;
+			border-radius: 0.5rem;
+			margin-top: 1rem;
+			margin-bottom: 0.5rem;
+		}
+		.navbar a {
+			color: #333;
+			text-decoration: none;
+			padding: 0.5rem 1rem;
+			border-radius: 0.25rem;
+			transition: background-color 0.2s;
+			margin-right: 0.5rem;
+			margin-bottom: 0.5rem;
+		}
+		.navbar a:hover {
+			background-color: #e0e0e0;
+		}
+	</style>
+</head>
+<body>
+	<header>
+		<h1>Webinar Page</h1>
+	</header>
+
+	<input type="text" id="search" class="search-bar" />
+
+	<button id="search-btn" onclick="searchWebinars()">Search</button>
+
+	<button id="sort-btn" onclick="sortWebinars()">Sort by Date</button>
+
+	<nav class="bg-light-grey navbar navbar-expand-lg navbar-light mt-4 mb-3 p-0 rounded">
+		<a href="#">All</a>
+		<a href="#">Power</a>
+		<a href="#">Downstream Processing</a>
+		<a href="#">Oil &amp; Gas</a>
+		<a href="#">Processing &amp; Mining &amp; Mfg</a>
+		<a href="#">Consumer Staples</a>
+	</nav>
+
+	<main id="webinars-container">
+		<!-- Webinar cards will be dynamically generated here -->
+	</main>
+
+	<footer>
+		<p>&copy; 2023 My Company</p>
+	</footer>
+
+	<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+	<script src="populate-webinars.js"></script>
+	<script src="https://unpkg.com/framer-motion@4.1.17/framer-motion.min.js"></script>
+
+</body>
+</html>
